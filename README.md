@@ -12,7 +12,7 @@
 
 </p>
 
-<h4>:computer: Working for Mundiale/Brazil, HDA Sistemas/Brazil & Spiry Capital/Romania</h4>
+<h4>:computer: Working for ioasys/Brazil, HDA Sistemas/Brazil & Spiry Capital/Romania</h4>
 <h4>:house:    Living in Belo Horizonte, Brazil</h4>
 <h4>:wrench:   Love to build useful stuff with JavaScript</h4>
 <h4>:rocket:   Learning a lot by doing a lot</h4>
