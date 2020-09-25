@@ -1,7 +1,7 @@
 <p>
   
   <h3 align="center">Hi, I'm Davi!</h3>
-  <h5 align="center">JavaScript | NodeJS | ReactJS | React Native</h5>
+  <h5 align="center">JavaScript | TypeScript | NodeJS | ReactJS | React Native</h5>
   
 </p>
 
