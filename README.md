@@ -18,5 +18,3 @@
 <h4>:rocket:        Learning a lot by doing a lot</h4>
 <h4>:construction:  Blockchain enthusiastic</h4>
 <h4>:coffee:        Powered by coffee</h4>
-
-<a target="_blank" href="https://app.daily.dev/devdavi"><img src="https://api.daily.dev/devcards/036b179195784f34a63909114a4ffc6b.png?r=v3x" width="200" alt="Davi Rodrigues's Dev Card"/></a>
