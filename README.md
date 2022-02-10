@@ -5,7 +5,6 @@
 </p>
 
 ## 💫 About Me
-<h4>:computer:      Working for Spiry Capital/Romania & HDA Sistemas/Brazil</h4>
 <h4>:house:         Living in Minas Gerais, Brazil</h4>
 <h4>:wrench:        Love to build useful stuff with JavaScript</h4>
 <h4>:rocket:        Learning a lot by doing a lot</h4>
