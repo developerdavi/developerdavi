@@ -1,13 +1,13 @@
 # Davi Coelho
-### Blockchain Expert
+### Software Engineer
 
-⤷ Blockchain developer, smart contracts auditor, aviation lover and cat father.
+⤷ Web engineer, blockchain developer, aviation lover and cat father.
 
 <a href="https://blog.devdavi.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a href="mailto:me@devdavi.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a href="https://twitter.com/devdavi_br" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a href="https://www.linkedin.com/in/developer-davi" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 ⚐ Based in Belo Horizonte, Brazil
 
-ϟ Currently working for Hacken and FreshCoins
+ϟ Currently working for Turing and FreshCoins
 
 
 
