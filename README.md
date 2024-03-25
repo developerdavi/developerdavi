@@ -7,7 +7,7 @@
 
 ⚐ Based in Belo Horizonte, Brazil
 
-ϟ Currently working for Turing and FreshCoins
+ϟ Currently working for Turing
 
 
 
